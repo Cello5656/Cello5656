@@ -1,16 +1,14 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil! 🫶
 
-<!--
-**Cello5656/Cello5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Heloisa Arantes
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br);
+- Estou aprendendo liguagem da Javascript;
+- Uso esse espaço para compartilhar meus projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Pode entrar em contato comigo no 📫
+
+  ### heloarante07@gmail.com
+
+  ![](https://media.tenor.com/0XsDOR0-6yMAAAAi/gojo-satoru-satoru-gojo.gif)
+  
